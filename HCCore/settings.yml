@@ -1,7 +1,7 @@
 disable_obsidian_generators: true
 server_time_zone: EST
 warzone_radius: 650
-donate_url: store.hcriots.net
+donate_url: store.aetherc.com
 spawn_buffer: 128
 map_number: 1
 kit_map: false
@@ -15,6 +15,12 @@ disallowed_faction_names:
 - parahcf
 - parasotw
 - paraeotw
+- vipereotw
+- vipersotw
+- veltpvp
+- viperhcf
+- veltsotw
+- velteotw
 enchantment_limits:
   PROTECTION_ENVIRONMENTAL: 2
   DAMAGE_ALL: 1
@@ -41,12 +47,12 @@ spawn_radius_map:
   NORMAL: 50
   NETHER: 25
   THE_END: 15
-diamond_ore_alerts: false
+diamond_ore_alerts: true
 subclaim_name_characters_min: 3
 subclaim_name_characters_max: 16
 faction_name_characters_min: 3
 faction_name_characters_max: 16
-max_members_per_faction: 15
+max_members_per_faction: 5
 road_distance: 2500
 road_min_height: 0
 road_max_height: 256
@@ -60,13 +66,13 @@ safezone_colour: AQUA
 road_colour: GOLD
 warzone_colour: RED
 wilderness_colour: GREEN
-scoreboard_title: '&c&lHCRiots &7[Map %MAP_NUNMBER%]   '
+scoreboard_title: '&b&lAetherMC &7(Map %MAP_NUNMBER%)   '
 max_allies_per_faction: 1
 max_claims_per_faction: 8
 allow_claiming_besides_roads: false
 dtr_millis_between_updates: 45000
 dtr_increment_between_updates: 0.1
-maximum_dtr: 6.0
+maximum_dtr: 5.1
 exp_multiplier_general: 2.0
 exp_multiplier_fishing: 2.0
 exp_multiplier_smelting: 2.0
