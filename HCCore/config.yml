@@ -15,7 +15,7 @@ roads:
   allow-claims-besides: true
 scoreboard:
   sidebar:
-    title: "&c&lOrtixPvP &c[Map {MAP_NUMBER}]"
+    title: "&b&lAetherMC &7(Map {MAP_NUMBER})"
     enabled: true
   nametags:
     enabled: true
@@ -31,6 +31,7 @@ warzone:
 factions:
   disallowed-faction-names:
   - EOTW
+  - SOTW
   min-name-characters: 3
   max-name-characters: 16
   max-members: 25
