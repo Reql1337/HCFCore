@@ -1,7 +1,7 @@
-name: Factions
+name: HCFCore
 version: 1.5
-description: HCRiots Factions core
-author: HCRiots Development Team
+description: Hardcore Factions Core
+author: Epic Gamers
 main: raton.meme.hcf.HCF
 softdepend: [ProtocolLib]
 commands:
